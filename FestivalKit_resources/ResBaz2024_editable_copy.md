@@ -37,6 +37,7 @@ Please fill out our survey relaying your interest in teaching a workshop, facili
 Thank you for your consideration! 
 
 [your name here]
+
 http://arizona.researchbazaar.org/ 
 
 
@@ -63,5 +64,7 @@ Any contribution is greatly appreciated and in return your organization will be 
 
 
 Thank you for your support,
+
 [your name here]
+
 http://arizona.researchbazaar.org/ 
