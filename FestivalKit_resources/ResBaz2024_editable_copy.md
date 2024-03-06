@@ -1,8 +1,10 @@
 # Initial Save-the-Date Email/Slack
-*Subject:* Announcing ResBaz AZ 2024: A Call to Innovators and Researchers!
+**Subject:** Announcing ResBaz AZ 2024: A Call to Innovators and Researchers!
 [Research Bazaar](https://researchbazaar.arizona.edu/) AZ‘s annual data science festival, 2024, where researchers come together to level-up in digital research tools and skills will be hosted Wednesday, May 15 - Friday, May 17. In the spirit of a marketplace or bazaar, the Research Bazaar, ResBaz is a highly collaborative event where anyone, regardless of discipline or previous experience, can learn, share knowledge, find help, and have fun!
 
-This year’s FREE three-day festival promises to be more engaging than ever for data beginners and digital experts alike with all three days brimming with opportunities to enhance your digital research tools and skills. The general three-day set-up is:
+This year’s FREE three-day festival promises to be more engaging than ever for data beginners and digital experts alike with all three days brimming with opportunities to enhance your digital research tools and skills. 
+
+The general three-day set-up is:
 
 _**May 15:** Online Conference_
 
@@ -19,7 +21,7 @@ Keep an eye out for speaker and volunteer opportunities, and in the meantime, ch
 
 
 # Prospective Instructors/Facilitators Email
-Subject: Research Bazaar 2024 (ResBaz): Call for Instructors, Facilitators and  Volunteers
+**Subject:** Research Bazaar 2024 (ResBaz): Call for Instructors, Facilitators and  Volunteers
 
 Hi all,
 
@@ -30,7 +32,9 @@ The 6th annual ResBaz AZ festival is happening May 15 - 17, 2024. This free, com
 
 
 <!-- We are seeking instructors and facilitators at UArizona, ASU, NAU, and other Arizona research facilities. Specifically, --> 
-We are looking for volunteers (grad students, post-docs, faculty, etc.) who would be willing to hold/teach/lead a 30-120 minute workshop on a data science topic, or facilitate an unconference session that is a creative and collaborative endeavor. ResBaz AZ’s annual festival is a great opportunity to expand teaching experience in a low stakes and welcoming environment. The general three-day conference set-up is:
+We are looking for volunteers (grad students, post-docs, faculty, etc.) who would be willing to hold/teach/lead a 30-120 minute workshop on a data science topic, or facilitate an unconference session that is a creative and collaborative endeavor. ResBaz AZ’s annual festival is a great opportunity to expand teaching experience in a low stakes and welcoming environment. 
+
+The general three-day conference set-up is:
 
 ***May 15:** Online Conference*
 
