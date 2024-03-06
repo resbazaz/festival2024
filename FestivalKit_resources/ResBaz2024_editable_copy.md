@@ -48,23 +48,26 @@ This year’s FREE three-day festival promises to be more engaging than ever for
 
 # Financial Support Email
 
+**Subject:** ResBaz2024 Financial Sponsorship Inquiry
+
 Hello [name],
 
 
-I am a member of the ResBaz AZ 2024 festival organizing committee. [ResBaz AZ](http://arizona.researchbazaar.org/), short for Research Bazaar Arizona, is a community and an annual festival-style event that promotes data science literacy across Arizona. 
+I am a member of the ResBaz AZ 2024 festival organizing committee. [[ResBaz AZ](http://arizona.researchbazaar.org/)](http://arizona.researchbazaar.org/), short for Research Bazaar Arizona, is a community and an annual festival-style event that promotes data science literacy across Arizona. 
 
 
 The 5th annual ResBaz AZ festival is happening from May 15th-17th, 2024. This free, community driven, and highly collaborative event provides members of the university and surrounding communities with opportunities to “level up” in computational and digital tools for research.
 
 
-Although we offer the festival free of charge because of timeless volunteer work, there are still some financial barriers left. For example, conference refreshments and University facilities labor fees for set-up. Your financial support can provide a comfortable and collaborative learning environment for researchers across campus.
+Although we offer the festival free of charge because of timeless volunteer work, there are still some financial barriers left. For example, conference refreshments and University facilities labor fees for set-up. Your financial  or in-kind sponsorship can provide a comfortable and collaborative learning environment for researchers across campus.
 
 
 Any contribution is greatly appreciated and in return your organization will be featured on our website and other promotional materials. 
+
 
 
 Thank you for your support,
 
 [your name here]
 
-http://arizona.researchbazaar.org/ 
+http://arizona.researchbazaar.org/
