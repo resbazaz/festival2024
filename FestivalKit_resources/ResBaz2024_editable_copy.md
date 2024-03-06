@@ -26,13 +26,20 @@ Hi all,
 I am a member of the ResBaz AZ 2024 festival organizing committee. [ResBaz AZ](https://researchbazaar.arizona.edu/), short for Research Bazaar Arizona, is a community and an annual festival-style event that promotes data science literacy across Arizona. 
 
 
-The 6th annual ResBaz AZ festival is happening Wednesday, May 15 - Friday, May 17, 2024. This free, community driven, and highly collaborative event provides members of the university and surrounding communities with opportunities to “level up” in computational and digital tools for research.
+The 6th annual ResBaz AZ festival is happening May 15 - 17, 2024. This free, community driven, and highly collaborative event provides members of the university and surrounding communities with opportunities to “level up” in computational and digital tools for research.
 
 
-We are seeking instructors and facilitators at UArizona, ASU, NAU, and other Arizona research facilities. Specifically, we are looking for volunteers (grad students, post-docs, faculty, etc.) who would be willing to hold/teach/lead a 30-120 minute workshop on a data science topic, or facilitate an unconference session that is a creative and collaborative endeavor. ResBaz AZ’s annual festival is a great opportunity to expand teaching experience in a low stakes and welcoming environment. 
+<!-- We are seeking instructors and facilitators at UArizona, ASU, NAU, and other Arizona research facilities. Specifically, --> 
+We are looking for volunteers (grad students, post-docs, faculty, etc.) who would be willing to hold/teach/lead a 30-120 minute workshop on a data science topic, or facilitate an unconference session that is a creative and collaborative endeavor. ResBaz AZ’s annual festival is a great opportunity to expand teaching experience in a low stakes and welcoming environment. The general three-day conference set-up is:
+
+***May 15:** Online Conference*
+
+***May 16:** Unconference in-person*
+
+***May 17:** Traditional Conference in-person*
 
 
-Please fill out our survey relaying your interest in teaching a workshop, facilitating an unconference session or volunteering your time. You are also encouraged to share the survey with other potential educators. 
+Please fill out our **survey** relaying your interest in teaching a workshop, facilitating an unconference session or volunteering your time. You are also encouraged to share the survey with other potential educators. 
 
 Thank you for your consideration! 
 
