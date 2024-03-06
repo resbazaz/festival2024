@@ -15,7 +15,8 @@ Share Your Knowledge: Have something to teach? ResBaz Festival is the perfect pl
 Have Fun: Yes, research can be fun! Engage in exciting activities, contests, and social events.
 Keep an eye out for speaker and volunteer opportunities, and in the meantime, check out the ResBaz 2023 program to see what you can expect at this year’s #ResBaz2024 festival!
 
-Prospective Instructors/Facilitators Email
+
+# Prospective Instructors/Facilitators Email
 Subject: Research Bazaar 2024 (ResBaz): Call for Instructors, Facilitators and  Volunteers
 
 Hi all,
