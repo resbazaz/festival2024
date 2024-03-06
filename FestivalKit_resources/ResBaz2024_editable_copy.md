@@ -44,3 +44,24 @@ http://arizona.researchbazaar.org/
 [Research Bazaar](https://researchbazaar.arizona.edu/) AZ‘s annual data science festival, 2024, where researchers come together to level-up in digital research tools and skills will be hosted Wednesday, May 15 - Friday, May 17. In the spirit of a marketplace or bazaar, the Research Bazaar, ResBaz is a highly collaborative event where anyone, regardless of discipline or previous experience, can learn, share knowledge, find help, and have fun!
 
 This year’s FREE three-day festival promises to be more engaging than ever for data beginners and digital experts alike with all three days brimming with opportunities to enhance your digital research tools and skills.
+
+# Financial Support Email
+
+Hello [name],
+
+
+I am a member of the ResBaz AZ 2024 festival organizing committee. [ResBaz AZ](http://arizona.researchbazaar.org/), short for Research Bazaar Arizona, is a community and an annual festival-style event that promotes data science literacy across Arizona. 
+
+
+The 5th annual ResBaz AZ festival is happening from May 15th-17th, 2024. This free, community driven, and highly collaborative event provides members of the university and surrounding communities with opportunities to “level up” in computational and digital tools for research.
+
+
+Although we offer the festival free of charge because of timeless volunteer work, there are still some financial barriers left. For example, conference refreshments and University facilities labor fees for set-up. Your financial support can provide a comfortable and collaborative learning environment for researchers across campus.
+
+
+Any contribution is greatly appreciated and in return your organization will be featured on our website and other promotional materials. 
+
+
+Thank you for your support,
+[your name here]
+http://arizona.researchbazaar.org/ 
