@@ -1,4 +1,24 @@
 # Initial Save-the-Date Email/Slack
+## Version 1 (Used this one)
+It's that time again! On behalf of the Research Bazaar Arizona team we would like to invite you to our annual conference **happening from May 15th-17th**. Register when you can and send this out to whomever you think would find this helpful.
+
+Research Bazaar AZ Festival 2024, hosted by [ResBazAZ](https://researchbazaar.arizona.edu/) , is a highly collaborative event where anyone, regardless of discipline or previous experience, can learn, share knowledge, find help, and have fun! We are innovative and community-centered, with a commitment to inclusiveness. The free event is scheduled slightly differently each day and is open to all.
+
+**ResB(az)2:** Upgrade your data science skills!
+May 15: Online Conference
+May 16: In-person (Unconference*)
+May 17: In-person (Traditional Conference)
+
+[REGISTER HERE](https://forms.gle/u5naq46pn3YoKERd8) to join us for **workshops on programming, data science, high performance computing, data visualization, machine learning, digital literacy, and more!** In the meantime, check out our [previous ResBaz 2023 program](https://researchbazaar.arizona.edu/resbaz/Arizona2023.html) to see what you can expect at this year’s #ResBaz2024 festival!
+
+Why You Should Attend:
+_Learn Next-Gen Skills:_ Dive into workshops and sessions led by data experts to master the latest digital research tools and techniques.
+_Collaborate and Network:_ Connect with like-minded researchers from various fields, fostering interdisciplinary collaboration and community building.
+_Share Your Knowledge:_ Have something to teach? ResBaz Festival is the perfect platform to share your skills and contribute to the collective learning experience.
+
+*Unoconference is a participant-driven collaboration model where participants themselves propose and organize workshops or sessions based on their interests and expertise.
+
+## Version 2
 **Subject:** Announcing ResBaz AZ 2024: A Call to Innovators and Researchers!
 [Research Bazaar](https://researchbazaar.arizona.edu/) AZ‘s annual data science festival, 2024, where researchers come together to level-up in digital research tools and skills will be hosted Wednesday, May 15 - Friday, May 17. In the spirit of a marketplace or bazaar, the Research Bazaar, ResBaz is a highly collaborative event where anyone, regardless of discipline or previous experience, can learn, share knowledge, find help, and have fun!
 
