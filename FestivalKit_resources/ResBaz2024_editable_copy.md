@@ -15,11 +15,12 @@ May 17: In-person (Traditional Conference)
 [REGISTER HERE](https://forms.gle/u5naq46pn3YoKERd8) to join us for **workshops on programming, data science, high performance computing, data visualization, machine learning, digital literacy, and more!** In the meantime, check out our [previous ResBaz 2023 program](https://researchbazaar.arizona.edu/resbaz/Arizona2023.html) to see what you can expect at this year’s #ResBaz2024 festival!
 
 Why You Should Attend:
-_Learn Next-Gen Skills:_ Dive into workshops and sessions led by data experts to master the latest digital research tools and techniques.
 
-_Collaborate and Network:_ Connect with like-minded researchers from various fields, fostering interdisciplinary collaboration and community building.
+- _Learn Next-Gen Skills:_ Dive into workshops and sessions led by data experts to master the latest digital research tools and techniques.
 
-_Share Your Knowledge:_ Have something to teach? ResBaz Festival is the perfect platform to share your skills and contribute to the collective learning experience.
+- _Collaborate and Network:_ Connect with like-minded researchers from various fields, fostering interdisciplinary collaboration and community building.
+
+- _Share Your Knowledge:_ Have something to teach? ResBaz Festival is the perfect platform to share your skills and contribute to the collective learning experience.
 
 
 *Unoconference is a participant-driven collaboration model where participants themselves propose and organize workshops or sessions based on their interests and expertise.
