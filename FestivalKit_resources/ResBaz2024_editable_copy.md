@@ -109,3 +109,96 @@ Thank you for your support,
 [your name here]
 
 http://arizona.researchbazaar.org/
+
+---
+
+# Email to current registrants explaining the unconference day structure
+
+Subject: ResBaz 2024: Get Ready for the Unconference Day!
+
+Dear ResBaz 2024 Attendee,
+
+We hope you're as excited as we are for the upcoming Research Bazaar Arizona Festival 2024! As you get ready for this three-day event, we want to give you an overview of the highly interactive "Unconference Day" scheduled for Thursday, May 16th.
+
+The Unconference Day is a unique chance for attendees to shape the conference through their own interests and skills. Here's what you can expect:
+
+**Speed Geeking (9:15 AM - 10:30 AM):** This fun format lets you quickly learn about diverse topics in short, one-on-one conversations with knowledgeable individuals.
+
+**Birds-of-a-Feather Sessions (10:45 AM - 12:00 PM and 2:15 PM - 3:30 PM):** Join casual discussion groups focused on your specific research interests or digital tools, encouraging natural conversations and networking opportunities.
+
+**Lightning Talks (1:00 PM - 2:00 PM):** Watch brief, five-minute presentations that cover a variety of projects, research results, or insights on digital tools & techniques. Lightning talks are a quick way to get exposed to many ideas and topics.
+
+The Unconference Day is all about joining in, working together, and sharing knowledge. Attendees can suggest and lead sessions, add to discussions, or just take part as active learners. The schedule will be flexible, allowing you to freely join sessions that interest you.
+
+We encourage you to come ready to share your skills, ask questions, and actively take part in shaping this unique conference experience.
+
+To add a session, update the appropriate spreadsheet:
+
+- [Birds-of-a-Feather sessions](https://docs.google.com/spreadsheets/d/1t4QC5fVFAnncnYVsLWVI6hrgW2L974URplWAVqLTxuc/)
+- [Lightning Talks](https://docs.google.com/spreadsheets/d/18UTFdk6nvyd8SO-VEc2fJsnz8EI6IcWjdcpzHCTQFu4/)
+
+We can't wait to see you there!
+
+Best regards,
+The ResBazAZ Team
+
+---
+
+# Email promoting the festival and explaining the unconference day
+
+Subject: Unleash Your Curiosity at ResBaz 2024 - Unconference Day Awaits!
+
+Dear Researchers,
+
+We are excited to invite you to the much-anticipated Research Bazaar Arizona Festival 2024, hosted by [ResBazAZ](https://researchbazaar.arizona.edu/). This three-day event, from May 15th to 17th, promises to be an immersive and collaborative experience like no other. This is a highly collaborative event where anyone, regardless of discipline or previous experience, can learn, share knowledge, find help, and have fun! We are innovative and community-centered, with a commitment to inclusiveness. The free event is scheduled slightly differently each day and is open to all.
+
+_**May 15:** Online Conference_
+
+_**May 16:** Unconference in-person_
+
+_**May 17:** Traditional Conference in-person_
+
+On the second day of the festival, Thursday, May 16th, we invite you to embrace the spirit of an "Unconference." This unique format puts the control in your hands, allowing attendees to shape the agenda and lead discussions on topics that spark their passion.
+
+What makes the Unconference Day so special?
+
+**Speed Geeking (9:15 AM - 10:30 AM):** This fun format lets you quickly learn about diverse topics in short, one-on-one conversations with knowledgeable individuals.
+
+**Birds-of-a-Feather Sessions (10:45 AM - 12:00 PM and 2:15 PM - 3:30 PM):** Join casual discussion groups focused on your specific research interests or digital tools, encouraging natural conversations and networking opportunities.
+
+**Lightning Talks (1:00 PM - 2:00 PM):** Watch brief, five-minute presentations that cover a variety of projects, research results, or insights on digital tools & techniques. Lightning talks are a quick way to get exposed to many ideas and topics.
+
+This attendee-driven approach ensures that the Unconference Day is tailored to your curiosities and passions. Suggest sessions, lead discussions, or simply immerse yourself in the knowledge shared by fellow attendees.
+
+Don't miss this chance to connect with like-minded researchers, share your skills, and discover new ideas in an interactive and engaging environment.
+
+[REGISTER HERE](https://forms.gle/u5naq46pn3YoKERd8) to join us for **workshops on programming, data science, high performance computing, data visualization, machine learning, digital literacy, and more!**
+
+Sincerely,
+The ResBazAZ Team
+
+---
+
+# Tweets
+
+## Tweet 1
+
+Get ready for an unusual conference experience at #ResBaz2024! :star: The Unconference Day on May 16th is all about attendee-driven discussions and knowledge sharing. Suggest sessions, lead talks, or simply join in – it's your call! :handshake: #ResearchBazaar #Unconference
+
+### Tweet 2
+
+Curious about the #Unconference at #ResBaz2024? Here's what to expect:
+
+:rocket: Speed Geeking: Quick 1:1 conversation to explore diverse topics
+:bird: Birds-of-a-Feather: Casual discussions around shared interests
+:zap: Lightning Talks: Brief presentations on various projects
+
+Get ready to shape your own conference experience! :partying_face:
+
+### Tweet 3
+
+The Unconference Day at #ResBaz2024 is all about working together and sharing knowledge! :handshake: Join like-minded researchers for conversations, networking, and a flexible schedule tailored to your interests. Don't miss this unique experience! #Unconference #ResearchBazaar
+
+### Tweet 4
+
+Share your skills & knowledge at the #Unconference day of #ResBaz2024! :star: Suggest sessions, lead discussions, or simply join as an active learner. This attendee-driven event puts the control in your hands to shape the conference experience. Get ready to connect and explore! #ResearchBazaar
